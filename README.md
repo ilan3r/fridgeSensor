@@ -17,7 +17,7 @@ Rough Order of Events/Timeline:
 - modify the constants for the time the door must be open for the buzzer to start beeping, and the time the door must be closed for the buzzer to stop beeping, then put everything on the breadboard and attach it to the wall
 
 Last updated: 
-March 31st 2024 
+April 17th 2024 
 
 Possible Improvements: 
 - use the ATtiny85 instead of the Arduino nano as it is smaller, cheaper, and more energy efficient
